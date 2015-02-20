@@ -1,0 +1,8 @@
+{
+  "name": "less-bootstrap",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "bootstrap": "~3.3.2"
+  }
+}
